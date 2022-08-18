@@ -1,0 +1,11 @@
+h1 {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url();
+    color: yellow;
+    background-image: url("");
+}
+h2 {
+    background-color: rgb(98, 255, 0);
+    color: whitesmoke;
+}
